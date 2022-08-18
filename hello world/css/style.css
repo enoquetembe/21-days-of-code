@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+body {
+  background: #111;
+}
+
+.container {
+  font-weight: bold;
+  font-family: 'Clicker Script', cursive;
+  font-size:5em;
+  text-align:center;
+  height:200px;
+  width:600px;
+  display:block;
+  position:absolute;
+  color:white;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  margin:auto;
+}
+
+.typing {
+    color: tomato;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
