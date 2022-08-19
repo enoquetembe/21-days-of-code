@@ -8,7 +8,16 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - [x]  Create a repository to list the projects that will be developed during the 21 days of code. <br> <br>
 
 ### 📆 Day 2/21:
-- [ ] Make a custom Hello World with fonts and images. <br> <br>
+- [x] Make a custom Hello World with fonts and images.
+
+https://user-images.githubusercontent.com/98264322/185185192-25871daf-91ab-435e-a106-32dc7ad38956.mp4
+
+
+<hr>
+<br> <br>
+
+
+
 
 ### 📆 Day 3/21:
 - [ ] Create a animated button. <br> <br>
