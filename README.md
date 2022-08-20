@@ -12,15 +12,16 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 
 https://user-images.githubusercontent.com/98264322/185185192-25871daf-91ab-435e-a106-32dc7ad38956.mp4
 
-
 <hr>
 <br> <br>
 
-
-
-
 ### 📆 Day 3/21:
-- [ ] Create a animated button. <br> <br>
+- [x] Create a animated button. 
+
+https://user-images.githubusercontent.com/98264322/185461961-4c8471a3-4f44-48d0-8820-ea042f3022c2.mp4
+
+<hr>
+<br> <br>
 
 ### 📆 Day 4/21:
 - [ ] Create a calculator. <br> <br>
