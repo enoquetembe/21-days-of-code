@@ -32,7 +32,11 @@ https://user-images.githubusercontent.com/98264322/185682322-3f2c2ac5-7699-4c5f-
 <br> <br>
 
 ### 📆 Day 5/21:
-- [ ] Develop a custom page that displays the 404 error. <br> <br>
+- [x] Develop a custom page that displays the 404 error. 
+
+![127 0 0 1_5500_ (8)](https://user-images.githubusercontent.com/98264322/185762539-b9e8f3e0-2bb0-434a-968f-27ffe16e73ad.png)
+
+<hr><br><br>
 
 ### 📆 Day 6/21:
 - [ ] Create a card with glassmorphism. <br> <br>
