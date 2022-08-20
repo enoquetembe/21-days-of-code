@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div class="container">
+        <div class="calculator dark">
+            <div class="theme-toggler active">
+               <div>
+
+        <input type="checkbox" class="checkbox" id="checkbox">
+
+        <label for="checkbox" class="label">
+
+            <i class="fas fa-moon"></i>
+            <i class="fas fa-sun"></i>
+            <div class="ball"></div>
+
+        </label>
+
+    </div>
+            </div>
+            <div class="display-screen">
+                <div id="display"></div>
+            </div>
+            <div class="buttons">
+                <table>
+                    <tr>
+                        <td><button class="btn-operator red" id="ce">CE</button></td>
+                        <td><button class="btn-operator" id="clear">AC</button></td>
+                        <td><button class="btn-operator red" id="fac">!X</button></td>
+                        <td><button class="btn-operator red" id="percent">%</button></td>
+                        <td><button class="btn-operator red" id="backspace"><</button></td>
+                        <td><button class="btn-operator" id="/">÷</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="btn-operator red" id="sin">sin</button></td>
+                        <td><button class="btn-operator red" id="square">√</button></td>
+                        <td><button class="btn-number" id="7">7</button></td>
+                        <td><button class="btn-number" id="8">8</button></td>
+                        <td><button class="btn-number" id="9">9</button></td>
+                        <td><button class="btn-operator" id="-">-</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="btn-operator red" id="cos">cos</button></td>
+                        <td><button class="btn-operator red" id="log">log</button></td>
+                        <td><button class="btn-number" id="4">4</button></td>
+                        <td><button class="btn-number" id="5">5</button></td>
+                        <td><button class="btn-number" id="6">6</button></td>
+                        <td><button class="btn-operator" id="+">+</button></td>
+                    </tr>
+                    <tr>
+                        
+                        <td><button class="btn-operator red" id="tan">tan</button></td>
+                        <td><button class="btn-operator red" id="square">√</button></td>
+                        <td><button class="btn-number" id="1">1</button></td>
+                        <td><button class="btn-number" id="2">2</button></td>
+                        <td><button class="btn-number" id="3">3</button></td>
+                        <td><button class="btn-operator " id="*">x</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="btn-operator red" id="e">e</button></td>
+                        <td><button class="btn-operator red" id="xy">x <span style="position: relative; bottom: .4em; right: .1em;">y</button></td>
+                        <td><button class="btn-operator" id="(">(</button></td>
+                        <td><button class="btn-number" id="0">0</button></td>
+                        <td><button class="btn-operator" id=")">)</button></td>
+                        <td><button class="btn-equal" id="equal">=</button></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="powered-by">
+                <img src="./rocketseat_logo.png" alt="">
+                <p>
+                    Powered by <a href="">Enoque Tembe</a>
+                </p>
+            </div>
+        </div>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
