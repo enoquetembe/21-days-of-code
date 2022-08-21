@@ -24,7 +24,12 @@ https://user-images.githubusercontent.com/98264322/185461961-4c8471a3-4f44-48d0-
 <br> <br>
 
 ### 📆 Day 4/21:
-- [ ] Create a calculator. <br> <br>
+- [x] Create a calculator. <br> <br>
+
+https://user-images.githubusercontent.com/98264322/185682322-3f2c2ac5-7699-4c5f-9232-a7ea7ffabc95.mp4
+
+<hr>
+<br> <br>
 
 ### 📆 Day 5/21:
 - [ ] Develop a custom page that displays the 404 error. <br> <br>
