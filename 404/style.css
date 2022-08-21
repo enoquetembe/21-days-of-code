@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@500&family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #766df0;
+}
+
+.container {
+    max-width: 1440px;
+    margin-inline: auto;
+    height: 100vh;
+    background-image: url('./background-home-desktop.jpg');
+    display: flex;
+    align-items: center;
+}
+
+.child-container {
+    max-width: 400px;
+    margin-left: 20rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.container .child-container h1 {
+    font-size: 8rem;
+    
+}
+
+.container .child-container h2 {
+    background: #091C5B;
+    padding: .4rem;
+    color: #fff;
+    display: flex; 
+    justify-content: center;
+    width: 300px;
+    align-self: center;
+    font-weight: 100; 
+}
+
+.container .child-container p {
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 1rem;
+    text-align: justify
+    ;
+}
+
+.container .child-container button {
+    width: 200px;
+    padding: 1rem;
+    border-radius: 10px;
+    border: none;
+    background:  #5E52F7;
+    color: #fff;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.container .child-container button:hover {
+    background: #9e98f2;
+}
