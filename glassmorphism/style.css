@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(to right, rgba(107, 107, 241), #f9004d);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: -10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 45px 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+i.fa{
+    font-size: 1.5rem;
+    transition: all .3s ease-in-out;
+}
+
+i.fa:hover {
+    transform: scale(1.2);
+    color: hotpink;
+}
+
+.card {
+    position: relative;
+    text-align: center;
+    border: 1px solid;
+    border-color: #fff8 ;
+    border-radius: 8px;
+    transform-style: preserve-3d;
+    width: 100%;
+    max-width: 340px;
+    height: 330px;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    
+}
+
+.card .user-img {
+    width: 140px;
+    border-radius: 50%;
+    height: 140px;
+    margin: auto;
+    border: 1px solid white;
+    margin-top: -135px;
+    z-index: 100;
+
+}
+
+.card .front,
+.card .back {
+  backface-visibility: hidden;
+  padding: 3rem;
+  height: 100%;
+  backdrop-filter: blur(0.2em);
+}
+
+.card .back {
+  position: absolute;
+  top: 0;
+  transform: rotateY(180deg);
+  font-size: .9rem;
+}
+
+
+
