@@ -62,6 +62,22 @@ https://user-images.githubusercontent.com/98264322/186241707-c6762f6d-deaf-4aad-
 
 https://user-images.githubusercontent.com/98264322/186241744-aabaf063-f868-4e87-8289-8f5108047905.mp4
 
-
-
 <hr> <br> <br>
+
+### 📆 Day 9/21:
+- [ ] Create a loading animation.
+
+### 📆 Day 10/21:
+- [ ] Uuse javascript's lib particple.js.
+
+### 📆 Day 11/21:
+- [ ] Uuse javascript's lib particple.js.
+
+### 📆 Day 12/21:
+- [ ] Develop an image gallery.
+
+### 📆 Day 13/21:
+- [ ] Develop a responsive menu.
+
+### 📆 Day 14/21:
+- [ ] Create a quiz form.
