@@ -39,7 +39,13 @@ https://user-images.githubusercontent.com/98264322/185682322-3f2c2ac5-7699-4c5f-
 <hr><br><br>
 
 ### 📆 Day 6/21:
-- [ ] Create a card with glassmorphism. <br> <br>
+- [x] Create a card with glassmorphism.
+
+
+https://user-images.githubusercontent.com/98264322/185804661-09d90f5f-ea8c-464d-8dd2-f0206af99d02.mp4
+
+<hr>
+<br> <br>
 
 ### 📆 Day 7/21:
 - [ ] Develop a counter. <br> <br>
