@@ -48,4 +48,20 @@ https://user-images.githubusercontent.com/98264322/185804661-09d90f5f-ea8c-464d-
 <br> <br>
 
 ### 📆 Day 7/21:
-- [ ] Develop a counter. <br> <br>
+- [x] Develop a counter. 
+
+
+https://user-images.githubusercontent.com/98264322/186241707-c6762f6d-deaf-4aad-9c22-ce1390b3e6c7.mp4
+
+
+<hr> <br> <br>
+
+### 📆 Day 8/21:
+- [x] Develop a toggle button tha change the theme to dark and light.
+
+
+https://user-images.githubusercontent.com/98264322/186241744-aabaf063-f868-4e87-8289-8f5108047905.mp4
+
+
+
+<hr> <br> <br>
