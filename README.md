@@ -65,7 +65,12 @@ https://user-images.githubusercontent.com/98264322/186241744-aabaf063-f868-4e87-
 <hr> <br> <br>
 
 ### 📆 Day 9/21:
-- [ ] Create a loading animation.
+- [x] Create a loading animation.
+
+
+https://user-images.githubusercontent.com/98264322/186511205-43bda385-fd0b-445b-921a-5c8f2ef21929.mp4
+
+<hr> <br><br>
 
 ### 📆 Day 10/21:
 - [ ] Uuse javascript's lib particple.js.
