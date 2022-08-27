@@ -83,7 +83,7 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 - [x] Uuse javascript's lib particple.js.
 
 ### 📆 Day 12/21:
-- [ ] Develop an image gallery.
+- [x] Develop an image gallery.
 
 ### 📆 Day 13/21:
 - [ ] Develop a responsive menu.
