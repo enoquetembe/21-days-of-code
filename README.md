@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 
 
 ### 📆 Day 11/21:
-- [ ] Uuse javascript's lib particple.js.
+- [x] Uuse javascript's lib particple.js.
 
 ### 📆 Day 12/21:
 - [ ] Develop an image gallery.
