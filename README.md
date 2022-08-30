@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 - [x] Develop an image gallery.
 
 ### 📆 Day 13/21:
-- [ ] Develop a responsive menu.
+- [x] Develop a responsive menu.
 
 ### 📆 Day 14/21:
 - [ ] Create a quiz form.
