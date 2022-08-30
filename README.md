@@ -89,4 +89,4 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 - [x] Develop a responsive menu.
 
 ### 📆 Day 14/21:
-- [ ] Create a quiz form.
+- [x] Create a quiz form.
