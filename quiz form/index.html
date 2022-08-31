@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Quiz</title>
+</head>
+<body>
+    <div id="particles-js">
+ 
+    </div>
+    
+    
+    <section class="home box">
+        <div class="">
+            <h3>Intructions</h3>
+            <p>
+                Total number of questions: <span class="total-questions"> 
+                    5
+                </span>
+            </p>
+
+            <button class="btn" type="button" onclick="start()">Start Quiz</button>
+        </div>
+    </section>
+
+    <section class="quiz-box box hidden">
+        <div class="question-number">
+        
+        </div>
+
+        <div class="question-text">
+             
+        </div>
+
+        <div class="option-container">
+          
+        </div>
+        <div class="next">
+            <button class="btn" type="button" onclick="next()">  Next
+            </button>
+        </div>
+
+        <div class="answers-indicator">
+            
+        </div>
+    </section>
+
+    <section class="result-quiz box hidden">
+        <h1>Quiz Result </h1>
+
+        <table>
+            <tr>
+                <td>Total Questions</td>
+                <td>
+                    <span class="total-questions">
+                        5
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Attempt</td>
+                <td>
+                    <span class="total-attempts">
+                        4
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Correct</td>
+                <td>
+                    <span class="total-correct">
+                        3
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td>Wrong</td>
+                <td>
+                    <span class="total-wrong">
+                        2
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Percentage</td>
+                <td>
+                    <span class="percentage">
+                        80.00%
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Total Score</td>
+                <td>
+                    <span class="total-score">
+                        3/5
+                    </span>
+                </td>
+            </tr>
+        </table>
+
+        <button type="button" class="btn">
+            Try Again
+        </button>
+        <button type="button" class="btn">
+            Go Home
+        </button>
+    </section>
+
+    <script src="./js/question.js"></script>
+    <script src="./js/app.js"></script>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.js'></script>
+  
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+  <script>
+    particlesJS.load('particles-js', 'particles.json', function(){
+      console.log('particles.json loaded...');
+    });
+  </script>
+</body>
+</html>

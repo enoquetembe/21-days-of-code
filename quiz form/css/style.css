@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@400&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, rgb(17, 17, 53), #101010);
+    color: #fff;
+}
+
+.box {
+    max-width: 43.75rem;
+    background: rgba(255,255,255, 0.1);
+    margin: 3rem auto;
+    padding: 1.875rem;
+    color: #000;
+    border-radius: .625rem;/*10px*/
+    position: relative;
+    z-index: 1000;
+}
+
+.box.hidden{
+    display: none;
+}
+
+.box::before,
+.box::after
+{
+    content: ' ';
+    clear: both;
+    display: table;
+}
+
+.box h1 {
+    font-size: 1.125rem;
+    font-weight: 500;
+    margin-bottom:1.07rem ; 
+}
+
+.box p {
+    font-size: 1rem;
+    margin-bottom: .625rem;
+    line-height: 1.375rem; /*22px*/
+    font-weight: 400;
+}
+
+.box p span {
+    font-weight: 500;
+}
+
+.btn {
+    display: inline-block;
+    cursor: pointer;
+    padding: 15px 45px; /*15px, 45px*/
+    background: rgb(69, 185, 69);
+    border: none;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.box .btn {
+    margin-top: 20px;  
+}
+
+.quiz-box .question-text,
+.quiz-box .option-container,
+.quiz-box .answers-indicator,
+.quiz-box .question-number,
+.quiz-box .next {
+    width: 100%;
+    float: left;
+}
+
+
+.quiz-box .question-number {
+   font-size: 1.125rem;
+   color: rgb(69, 185, 69);
+   font-weight: 600; 
+   border-bottom: 1px solid #ccc;
+   padding-bottom: .625;
+   line-height: 1.5rem;
+}
+
+.quiz-box .question-text {
+    color: #000 ;
+    font-size: 1.375rem;
+    line-height: 1.625rem;
+    font-weight: 400;
+    padding: 1.25rem;
+}
+
+.quiz-box .option-container {
+
+}
+
+.quiz-box .option-container .option {
+    background: #ccc;
+    color: #000;
+    position: relative;
+    overflow: hidden;
+    padding: .9375rem;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    border-radius: 0.5rem;
+    margin-bottom: .625rem;
+    cursor: pointer;
+    text-transform: capitalize;
+    opacity: 0;
+    animation: fadeIn 0.3s ease forwards;
+}
+
+.quiz-box .option-container .option.correct::before {
+    content: ' ';
+    width: 100%;
+    height: 100%;
+    background: green;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -12;
+    animation: slides .4s ease forwards;
+}
+
+
+.quiz-box .option-container .option.wrong::before {
+    content: ' ';
+    width: 100%;
+    height: 100%;
+    background:red  ;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -12;
+    animation: slides .4s ease forwards;
+}
+
+.quiz-box .option-container .option.alreay-answered {
+    pointer-events: none;
+}
+
+@keyframes slides {
+    0% {
+        transform: translatey(-100%);
+    }
+
+    100% {
+        transform: translatey(0%);
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.quiz-box .btn {
+    margin: 15px 0;
+}
+
+.quiz-box .answers-indicator {
+   border-top: 1px solid #ccc; 
+}
+
+.quiz-box .answers-indicator div {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-color: #ccc;
+    border-radius: 50%;
+    margin-right: 3px;
+    margin-top: 15px;
+}
+
+.quiz-box .answers-indicator div.correct {
+    background-color: green;
+    background-image: url('../img/correct.png');
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.quiz-box .answers-indicator div.wrong {
+    background-color: red;
+    background-image: url('../img/wrong.png');
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.result-quiz {
+    text-align: center;
+}
+
+.result-quiz h1 {
+    font-size: 36px;
+    line-height: 42px;
+    color: rgb(69, 185, 69);
+}
+
+.result-quiz table {
+   width: 100%; 
+   border-collapse: collapse;
+   margin: 30px 0;
+}
+
+.result-quiz table td {
+    border: 1px solid #ccc;
+    padding: 8px 15px;
+    color: #000;
+    width: 50%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+}
+.result-quiz .btn {
+    margin-right: 20px;
+}
+
+.result-quiz.hidden{
+    display: none;
+}
+ 
+#particles-js {
+    width: 90vw;
+    height: 90vh;
+    position: absolute;
+  }

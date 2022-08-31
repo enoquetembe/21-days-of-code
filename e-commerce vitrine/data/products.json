@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "T-shirt Navy blue Polo shirt Sweater",
+      "price": "130",
+      "url": "./images/en-0.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 2,
+      "title": "Yellow Polo jersey Sweater",
+      "price": "210",
+      "url": "./images/en.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 3,
+      "title": "Jewellery Wedding ring Gold Diamond",
+      "price": "90",
+      "url": "./images/jew-0.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 4,
+      "title": "Earring Jewellery Sapphire Diamond",
+      "price": "100",
+      "url": "./images/jew-1.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 5,
+      "title": "Tropical Shirt",
+      "price": "100",
+      "url": "./images/product-5.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 6,
+      "title": "ROG Headphone - Model 25",
+      "price": "50",
+      "url": "./images/product-6.png",
+      "category": "Accessories"
+    },
+    
+    {
+      "id": 10,
+      "title": "Mouse Gammer",
+      "price": "300",
+      "url": "./images/product-10.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "title": "Apple AirPods",
+      "price": "700",
+      "url": "./images/product-11.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "title": "Apple Watch Series 3 ",
+      "price": "500",
+      "url": "./images/product-12.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Macbook Pro 2021 ",
+      "price": "900",
+      "url": "./images/product-13.png",
+      "category": "Accessories"
+    },
+    
+    {
+      "id": 15,
+      "title": "XBox Joystick",
+      "price": "250",
+      "url": "./images/product-15.png",
+      "category": "Accessories"
+    },
+   
+    {
+      "id": 17,
+      "title": "Earring Necklace Jewellery Gold",
+      "price": "200",
+      "url": "./images/jew-2.png",
+      "category": "Jewellery"
+    },
+
+    {
+      "id": 18,
+      "title": "Watch Quartz clock Gold",
+      "price": "1000",
+      "url": "./images/jew-3.png",
+      "category": "Jewellery"
+    }
+
+  ]
+}
+
+
