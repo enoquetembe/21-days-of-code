@@ -80,13 +80,13 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 
 
 ### 📆 Day 11/21:
-- [x] Uuse javascript's lib particple.js.
+- [x] Develop a login form.
 
 ### 📆 Day 12/21:
 - [x] Develop an image gallery.
 
 ### 📆 Day 13/21:
-- [ ] Develop a responsive menu.
+- [x] Develop a responsive menu.
 
 ### 📆 Day 14/21:
-- [ ] Create a quiz form.
+- [x] Create a quiz form.
