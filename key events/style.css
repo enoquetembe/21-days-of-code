@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #ccc;
+  text-align: center;
+  font-family: "Helvetica"
+
+}
+
+table {
+  border: 2px solid  rgb(4, 80, 138);
+  margin: 50px 20px 50px 100px;
+  padding: 30px;
+  color: rgb(4, 80, 138);
+  font-size: 1.5rem;
+  outline: none;
+  cursor: pointer;
+  background-color:#ccc;   
+  }
+ 
+th, td{
+  padding: 20px
+}
