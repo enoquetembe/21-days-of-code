@@ -90,3 +90,10 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 
 ### 📆 Day 14/21:
 - [x] Create a quiz form.
+
+### 📆 Day 15/21:
+- [x] Develop a website that displays a showcase of products from a fictitious e-commerce (with product names, prices and images)
+
+### 📆 Day 16/21:
+- [x] develop a website using some public api
+
