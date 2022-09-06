@@ -81,9 +81,15 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 
 ### 📆 Day 11/21:
 - [x] Develop a login form.
+![127 0 0 1_5500_ (12)](https://user-images.githubusercontent.com/98264322/188639058-de558ad8-07a0-4a69-95e3-4ba838282edd.png)
+
 
 ### 📆 Day 12/21:
 - [x] Develop an image gallery.
+
+
+https://user-images.githubusercontent.com/98264322/188639299-99b3c7a2-e65a-404d-862e-c91cec710220.mp4
+
 
 ### 📆 Day 13/21:
 - [x] Develop a responsive menu.
@@ -91,8 +97,13 @@ https://user-images.githubusercontent.com/98264322/186723066-3bbe1d7b-9171-47ab-
 ### 📆 Day 14/21:
 - [x] Create a quiz form.
 
+https://user-images.githubusercontent.com/98264322/188639373-48bffd8d-235e-4eaf-a1df-d17e454b7bfd.mp4
+
+
 ### 📆 Day 15/21:
-- [x] Develop a website that displays a showcase of products from a fictitious e-commerce (with product names, prices and images)
+- [x] Develop a website that displays a showcase of products from a fictitious e-commerce (with product names, prices and images).
+
+https://user-images.githubusercontent.com/98264322/188639812-73af22df-5290-448e-a7e8-b6a796d51f2b.mp4
 
 ### 📆 Day 16/21:
 - [x] develop a website using some public api
