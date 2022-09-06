@@ -94,6 +94,10 @@ https://user-images.githubusercontent.com/98264322/188639299-99b3c7a2-e65a-404d-
 ### 📆 Day 13/21:
 - [x] Develop a responsive menu.
 
+
+https://user-images.githubusercontent.com/98264322/188653959-11f1d8bb-60de-4630-90a0-36e9979e355f.mp4
+
+
 ### 📆 Day 14/21:
 - [x] Create a quiz form.
 
@@ -114,18 +118,38 @@ https://user-images.githubusercontent.com/98264322/188640864-450ad21f-bc9b-4a2d-
 ### 📆 Day 17/21:
 - [x] Develop a website that captures keyboard events and displays the event and key pressed on the screen.
 
+
+https://user-images.githubusercontent.com/98264322/188654131-e8ac3872-1709-4c5c-ae09-3cf9774f5588.mp4
+
+
 ### 📆 Day 18/21:
 - [x] Develop a random password generator
+
+
+
+https://user-images.githubusercontent.com/98264322/188654198-63bc875b-20df-4413-8ad2-2ba770e9bec7.mp4
 
 
 ### 📆 Day 19/21:
 - [x] Develop a website that generates random images using de Unsplash API
 
 
+https://user-images.githubusercontent.com/98264322/188654250-5b848f7a-d0fc-4449-b8d1-8643679ab520.mp4
+
+
+
 ### 📆 Day 20/21:
 - [x] Develop a emoji picker
 
 
+https://user-images.githubusercontent.com/98264322/188654297-7f546aff-545e-45d5-a8ee-91ad36daee9c.mp4
+
+
+
 ### 📆 Day 21/21:
-- [x] develop a website using some public api
+- [x] develop a portifolio
+
+
+https://user-images.githubusercontent.com/98264322/188654328-542ee1f2-5169-4833-aa62-b9b87b4b0a51.mp4
+
 
