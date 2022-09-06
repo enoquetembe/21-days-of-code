@@ -108,3 +108,24 @@ https://user-images.githubusercontent.com/98264322/188639812-73af22df-5290-448e-
 ### 📆 Day 16/21:
 - [x] develop a website using some public api
 
+
+https://user-images.githubusercontent.com/98264322/188640864-450ad21f-bc9b-4a2d-ad7d-335cb06219d7.mp4
+
+### 📆 Day 17/21:
+- [x] Develop a website that captures keyboard events and displays the event and key pressed on the screen.
+
+### 📆 Day 18/21:
+- [x] Develop a random password generator
+
+
+### 📆 Day 19/21:
+- [x] Develop a website that generates random images using de Unsplash API
+
+
+### 📆 Day 20/21:
+- [x] Develop a emoji picker
+
+
+### 📆 Day 21/21:
+- [x] develop a website using some public api
+
