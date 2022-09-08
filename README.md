@@ -16,7 +16,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - Partcles.js
 - Jquery
 
-<br> <br>
+<br> 
 ## Challenges
 
 ### 📆 Day 1/21:
