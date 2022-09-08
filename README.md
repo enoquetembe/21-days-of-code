@@ -2,6 +2,21 @@
 Challenge created by RocketSeat🚀 that consists of coding for at least 1h a day every day, for 21 days.
 <br>
 <br>
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## API's
+- The Movie Database API
+- Unsplash API
+
+## Libraries
+- Partcles.js
+- Jquery
+
+<br> <br>
 ## Challenges
 
 ### 📆 Day 1/21:
