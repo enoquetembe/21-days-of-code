@@ -17,6 +17,7 @@ Challenge created by RocketSeat🚀 that consists of coding for at least 1h a da
 - Jquery
 
 <br> 
+
 ## Challenges
 
 ### 📆 Day 1/21:
